@@ -112,7 +112,7 @@ __Tertiary color:__ Grey
             <br><br>
       </div>
       <div class="footer">
-        &#169; 2021 Apple Lt., Developed by Chandru.
+        &#169; 2021 Apple Lt., Developed by Dharmaraj.
       </div>
     </div>
   </body>
@@ -344,7 +344,7 @@ __Tertiary color:__ Grey
         </div>
       </div>
       <div class="footer">
-        &#169; 2021 Apple Lt., Developed by Chandru.
+        &#169; 2021 Apple Lt., Developed by Dharmaraj.
       </div>
     </div>
   </body>
@@ -598,7 +598,7 @@ __Tertiary color:__ Grey
     </div>
       </div>
       <div class="footer">
-        &#169; 2021 Apple Lt., Developed by Chandru.
+        &#169; 2021 Apple Lt., Developed by Dharmaraj.
       </div>
     </div>
   </body>
@@ -638,7 +638,7 @@ __Tertiary color:__ Grey
             <b>Address: </b>One Apple Park Way; Cupertino, CA 95014, U.S.A.<br></p>
       </div>
       <div class="footer">
-        &#169; 2021 Apple Lt., Developed by Chandru.
+        &#169; 2021 Apple Lt., Developed by Dharmaraj.
       </div>
     </div>
   </body>
